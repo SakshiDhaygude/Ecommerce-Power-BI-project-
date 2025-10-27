@@ -1,5 +1,6 @@
 # Power-BI--
 Ecommerce Sales Project 
+Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNWExNmM5NjYtZmY4YS00ZWEzLTg3ODgtYmY0MzQ3ZjYyZTJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 This dashboard tracks year-to-date (YTD) e-commerce performance across key metrics such as sales, profit, quantity, and profit margin. It helps identify trends by category, product, region, and shipping type.
 ________________________________________
